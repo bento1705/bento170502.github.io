@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Dear Jacques ;)',
-    introDesc: `I have a feeling \n
-    That I can't comprehend \n
-    In my deepest thoughts you are \n  
-    More than just a friend`,
+    introTitle: 'Dear bé Tùng :>',
+    introDesc: `sau đây là lời nhắn \n
+     Chú Thành dành đến bé Tùng\n  
+    Nhưng theo một cách hơi cồng kềnh =)))`,
     btnIntro: 'click here 👋🏻',
-    title: 'Do you like meeeeeeehhh 🥺? ',
-    desc: 'you can try to press NO 😭.....if you can lol ',
-    btnYes: 'A big yes! 🥰',
-    btnNo: 'No! Are you dreaming?',
-    question:'There are 7 billions smiles in the world..Why mine is your favorite? 😛',
+    title: 'Mai trời lạnh phết nèe, e đón đi ăn món gì nóng nóng nhaaa ^^ ',
+    desc: 'Anh có thể chọn "Không" :(...Nếu anh có thể =)))))',
+    btnYes: 'Đi luôn ngại gì =)) 🥰',
+    btnNo: 'Không! Đi ăn một mình đi 😏',
+    question:'One more question!! who is the most gorgeous panda in the world?',
     btnReply: 'Send it to Thành',
-    reply: 'genuine+cute+naughty..😈 lol ',
-    mess: 'Ye,I know 😂. You make me blush babe🙈 I like you too hehe ',
-    messDesc: 'What are you waiting for? Tell me about how your day was 🥰 ',
+    reply: 'bé Tùng :> ',
+    mess: 'hừ, biết ngay mà 🙃 nhưng mà thôi đúng quá nên cũng không cãi được =))) ',
+    messDesc: 'bé còn chờ gì nữa =))) direct ngay cho chú nèo 😝',
     btnAccept: 'Lets gooo!!',
-    messLink: 'https://m.me/nguyen.tuanthanh17502/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.instagram.com/bento17_05/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
